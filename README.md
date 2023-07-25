@@ -1,6 +1,5 @@
 # Hi, I'm Vladimir 👋
 Software Developer. I have excellent knowledge in backend development on Java.
-In general worked with monolitic, microservice and serverless arthitectures. Big part of my acitities is open-source.
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=vladimirGlinskikh&show_icons=true&count_private=true"><img
@@ -17,6 +16,13 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
 <p align='center'>
 📫 How to reach me: <a href='mailto:vladimir.v.glinskikh@gmail.com'>vladimir.v.glinskikh@gmail.com</a>
 </p>
+
+## 🛠 Technical Stack
+*   Java
+*   PostgreSQL, MySQL, MongoDB, Flyway, Liquibase
+*   Spring Framework(Boot, MVC, Data, Security)
+*   Maven, Gradle
+*   GitHub
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/vladimirGlinskikh/github-profile-views-counter">
