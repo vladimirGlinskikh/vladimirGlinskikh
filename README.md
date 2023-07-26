@@ -1,5 +1,5 @@
 # Hi, I'm Vladimir 👋
-Software Developer. I have excellent knowledge in backend development on Java.
+I'm a Software Developer. I have excellent knowledge in backend development on Java.
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=vladimirGlinskikh&show_icons=true&count_private=true"><img
