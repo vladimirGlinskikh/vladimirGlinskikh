@@ -18,9 +18,10 @@ I'm a Software Developer. I have excellent knowledge in backend development on J
 </p>
 
 ## 🛠 Technical Stack
-*   Java
-*   PostgreSQL, MySQL, MongoDB, Flyway, Liquibase
+*   Java, JavaScript
 *   Spring Framework(Boot, MVC, Data, Security)
+*   HTML, CSS, Bootstrap
+*   PostgreSQL, MySQL, MongoDB, Flyway, Liquibase
 *   Maven, Gradle
 *   Docker
 *   GitHub
