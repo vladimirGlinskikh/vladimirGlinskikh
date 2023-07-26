@@ -22,6 +22,7 @@ Software Developer. I have excellent knowledge in backend development on Java.
 *   PostgreSQL, MySQL, MongoDB, Flyway, Liquibase
 *   Spring Framework(Boot, MVC, Data, Security)
 *   Maven, Gradle
+*   Docker
 *   GitHub
 
 <div align="center" style="margin: 40px 0">
