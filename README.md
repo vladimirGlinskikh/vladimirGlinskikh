@@ -1,17 +1,19 @@
 ## Hi, I'm Vladimir 👋
 I'm a Software Developer. I have excellent knowledge in backend development on Java.
-
+<p align='center'>
 <a href="https://github.com/vladimirGlinskikh/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vladimirGlinskikh" />
 </a>
 <a href="https://github.com/vladimirGlinskikh/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vladimirGlinskikh&layout=compact&langs_count=8&card_width=320" />
 </a>
+</p>
 
 <p align='center'>
    <a href="https://t.me/VladimirGlinskikh">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
+  </p>
 <p align='center'>
 📫 How to reach me: <a href='mailto:vladimir.v.glinskikh@gmail.com'>here</a>
 </p>
