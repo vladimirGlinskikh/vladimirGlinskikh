@@ -2,7 +2,7 @@
 I'm a Software Developer. I have excellent knowledge in backend development on Java.
 
 <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=vladimirGlinskikh&show_icons=true&count_private=true"><img
+   <a href="https://github-readme-stats.vercel.app/api?username=vladimirGlinskikh&show_icons=true&theme=radical"><img
            height=150
            src="https://github-readme-stats.vercel.app/api?username=vladimirGlinskikh&show_icons=true&count_private=true"/></a>
    <a href="https://github.com/vladimirGlinskikh/github-readme-stats"><img height=150
