@@ -27,9 +27,3 @@ I am a software developer with Java language skills and experience working on di
 *   Docker
 *   GitHub
 
-<div align="center" style="margin: 40px 0">
-   ![](https://komarev.com/ghpvc/?username=vladimirGlinskikh)
-       <img width="175px" src="https://komarev.com/ghpvc/?username=vladimirGlinskikh&color=DE002D">
-   </a>
-</div>
-
