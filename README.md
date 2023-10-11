@@ -27,7 +27,7 @@ I'm a Software Developer. I have good knowledge in backend development on Java.
 *   Docker
 *   GitHub
 
-<div align="center" style="margin: 40px 0">
+<div align="center">
    <a href="https://github.com/vladimirGlinskikh/github-profile-views-counter">
        <img width="175px" src="https://komarev.com/ghpvc/?username=vladimirGlinskikh&color=DE002D">
    </a>
