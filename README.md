@@ -1,5 +1,5 @@
 ## Hi, I'm Vladimir 👋
-I'm a Software Developer. I have good knowledge in backend development on Java.
+I am a software developer with Java language skills and experience working on diverse projects. My passion lies in finding efficient and innovative solutions for complex technical challenges and also my goal is to create software products that solve real-world problems and enhance business processes.
 <p align='center'>
 <a href="https://github.com/vladimirGlinskikh/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vladimirGlinskikh" />
@@ -27,8 +27,8 @@ I'm a Software Developer. I have good knowledge in backend development on Java.
 *   Docker
 *   GitHub
 
-<div align="center">
-   <a href="https://github.com/vladimirGlinskikh/github-profile-views-counter">
+<div align="center" style="margin: 40px 0">
+   ![](https://komarev.com/ghpvc/?username=vladimirGlinskikh)
        <img width="175px" src="https://komarev.com/ghpvc/?username=vladimirGlinskikh&color=DE002D">
    </a>
 </div>
