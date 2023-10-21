@@ -19,7 +19,7 @@ I am a software developer with Java language skills and experience working on di
 </p>
 
 ## 🛠 Technical Stack
-*   Java, JavaScript
+*   Java, JavaScript, SQL
 *   Spring Framework(Boot, MVC, Data, Security)
 *   HTML, CSS, Bootstrap
 *   PostgreSQL, MySQL, MongoDB, Flyway, Liquibase
