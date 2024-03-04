@@ -4,9 +4,6 @@ I am a software developer with experience working on various projects and skills
 <a href="https://github.com/vladimirGlinskikh/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vladimirGlinskikh" />
 </a>
-<a href="https://github.com/vladimirGlinskikh/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vladimirGlinskikh&layout=compact&langs_count=8&card_width=320" />
-</a>
 </p>
 
 <p align='center'>
