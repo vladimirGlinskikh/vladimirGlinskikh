@@ -1,6 +1,7 @@
 ### 👋 Hi, I'm Vladimir
 I am a software developer with experience working on various projects and skills in the Java language. My passion lies in finding efficient and innovative solutions for complex technical challenges, and my goal is to create software products that solve real-world problems and improve business processes. I also have extensive experience in computer equipment repair. Therefore, I strive to become an absolute Full Stack developer.
 
+[![vladimirGlinskikh's GitHub | Stats](https://stats.quine.sh/vladimirGlinskikh/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=vladimirGlinskikh)
 
 
 ### 🛠 My Technical Stack
