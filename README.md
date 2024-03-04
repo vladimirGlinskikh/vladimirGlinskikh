@@ -1,5 +1,5 @@
 ## Hi, I'm Vladimir 👋
-I am a software developer with experience working on various projects and skills in the Java language. My passion lies in finding efficient and innovative solutions for complex technical challenges, and my goal is to create software products that solve real-world problems and improve business processes. I also have extensive experience in computer equipment repair. Therefore, I strive to become an absolute Full Stack developer.
+# I am a software developer with experience working on various projects and skills in the Java language. My passion lies in finding efficient and innovative solutions for complex technical challenges, and my goal is to create software products that solve real-world problems and improve business processes. I also have extensive experience in computer equipment repair. Therefore, I strive to become an absolute Full Stack developer.
 
 ## 🛠 My Technical Stack
 *   Java, JavaScript, SQL
