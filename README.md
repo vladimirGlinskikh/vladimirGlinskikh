@@ -1,7 +1,6 @@
  <div align="center">
 
 # Vladimir Glinskikh
-### `Full Stack Developer`
 
 **Turning ideas into real-world solutions**
 
@@ -128,20 +127,6 @@ Online military surplus store
 </tr>
 </table>
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vladimirGlinskikh&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&locale=en" alt="GitHub Stats">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladimirGlinskikh&layout=compact&hide_border=true&theme=tokyonight&locale=en" alt="Most Used Languages">
-
-<img src="https://streak-stats.demolab.com?user=vladimirGlinskikh&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Contribution Streak">
-
-</div>
-
-> **Always learning · Growing · Creating**
-
 ---
 
 <div align="center">
@@ -150,6 +135,6 @@ Online military surplus store
 
 [![MAX](https://img.shields.io/badge/MAX-Message_me-6B4EFF?style=for-the-badge&logoColor=white)](https://max.ru/u/f9LHodD0cOLpG2j1LVt16xEmMLXaWYjYLkhiQ8rGseHzTjwTYSfhdIcalpQ)
 
-<sub>Better Code · Better Future</sub>
+**Always learning · Growing · Creating**
 
 </div>
