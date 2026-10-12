@@ -23,8 +23,6 @@ I also have extensive experience in computer hardware repair, which gives me a b
 </td>
 <td width="40%" align="center" valign="middle">
 
-## About Me
-
 <img src="assets/about-qr.png" alt="QR code - About Me" width="220">
 
 *Scan the QR code*
