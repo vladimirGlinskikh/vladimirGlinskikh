@@ -1,7 +1,5 @@
  <div align="center">
 
-# Vladimir Glinskikh
-
 **Turning ideas into real-world solutions**
 
 [![MAX](https://img.shields.io/badge/MAX-Message-6B4EFF?style=for-the-badge&logoColor=white)](https://max.ru/u/f9LHodD0cOLpG2j1LVt16xEmMLXaWYjYLkhiQ8rGseHzTjwTYSfhdIcalpQ)
