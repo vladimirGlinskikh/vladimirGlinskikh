@@ -12,8 +12,6 @@
 <tr>
 <td width="60%" valign="top">
 
-## 👤 About Me
-
 I'm a software developer with experience building a variety of projects using multiple programming languages and technologies. I enjoy solving complex technical challenges and finding effective, innovative solutions.
 
 My goal is to develop software products that solve real-world problems and streamline business processes.
